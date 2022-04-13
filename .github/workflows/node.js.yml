@@ -1,5 +1,5 @@
 # This workflow will do a Docker build and then push that image to harbor registory, and also it will modify values.yaml file of our particular helm chart.
-# In this action we are using github action build number as a tag of our image.
+# In this action we are using github action build number as a tag of our image..
 
 name: Demo-metabob-Docker CI
 
